@@ -1,0 +1,3 @@
+   } else {
+    fmt.Println("Unfortunately, you've run out of attempts. The secret word was", secretWord, ".")
+   }
